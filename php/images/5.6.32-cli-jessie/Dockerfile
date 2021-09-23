@@ -1,1 +1,1 @@
-ssssssssssssssssssssssssss
+print ("riga notttttttttttttttt zindabad")
